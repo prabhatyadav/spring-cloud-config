@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: common-config
+  cloud:
+    config:
+      server:
+        git:
+          uri: C:/Users/SG0395400/Sample/gitrepo
+
+server:
+  port: 8888
+
